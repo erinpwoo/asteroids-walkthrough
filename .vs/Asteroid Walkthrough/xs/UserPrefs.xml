@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{CD98125C-A6C3-EAC2-9537-FF05D3CC22AE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Spaceship.cs" Line="68" Column="46" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="24" Column="41" />
+      <File FileName="Assets/Scripts/AsteroidHandler.cs" Line="20" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7d7b2634-558b-4551-a245-a5eb330db3bc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
